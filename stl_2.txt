@@ -8,4 +8,34 @@
 
 # Proszę dopisywać swoje pytania
 
+#Pytania Filip
+Ktore z ponizszych nie nalezy do keyword C++
+- volatile
+- friend
++ extends
+- this 
 
+Adaptery w STL to :
+- stos
+- kolejka
+- kolejka priorytetowa
+- wszystkie wyzej wymienione
+
+Iteratory mozna wykorzystac do:
+- wyszukiwania danych
+- kasowania wybranego elementu
+- kopiowania wybranego zakresu danych do innego kontenera
++ wszystkie odpowiedzi sa poprawne
+
+Capality zwraca:
+- iterator wskazujacy na element
+- referencje na ostatni element w kontenerze
+- minimalna liczbe elementow jaka moze pomiescic kontener bez 
+wykonywania realokacji pamieci
++ maksymalna dlugosc tablicy kontenera wyrazona w liczbie elementow
+
+Rbegin zwraca iterator odwrotny wskazujacy na:
+- pierwszy element
+- drugi element 
++ ostatni element
+- zadna z powyzszych 
